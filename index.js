@@ -1,1 +1,3 @@
- var recipe = new Obj();
+ var recipe = new Obj({
+   
+ });
