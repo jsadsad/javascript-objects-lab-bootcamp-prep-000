@@ -1,3 +1,5 @@
- var recipes = new Obj({
-   Italian: 'Alfredo'
- });
+var recipes = {};
+
+function updateObjectWithKeyAndValue(object, key, value) {
+
+}
